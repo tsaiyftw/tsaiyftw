@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tsaiyftw
-- 👀 I’m interested in healthcare, software engineering, and data science.
+- 👀 I’m interested in healthcare and data science.
 - 🌱 I’m currently learning Python, programming, machine learning, and data science.
 - 💞️ I’m looking to collaborate on data anaylytics projects.
 - 📫 How to reach me tsaiyftw@gmail.com
